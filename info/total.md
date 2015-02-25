@@ -1,6 +1,6 @@
 Mortar teams should find the biggest squad on the map as fast as possible and take them out.
 
-While searching out targets, they see five different kinds of cells on a map grid, each marked by a number.
+We see five different kinds of cells on a map grid, each marked by a number.
 
 The container is represented as a square matrix.
 The numbers 1 through 5 are used to label the different kinds of cells -- the elements of the matrix.
