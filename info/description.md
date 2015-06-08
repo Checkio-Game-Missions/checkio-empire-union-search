@@ -6,4 +6,14 @@ Zero is an empty cell.
 Find the largest group of identical numbers neighbotring each other and
 figure out both the quantity of the cells within the group and the number the cells contain.
 
-![gird](radiation-search.png)
+```
+1   2   3   4   5
+|
+1 - 1 - 1   2   3
+|   |   |
+1 - 1 - 1   2   2
+|
+1   2   2   2   1
+|               |
+1 - 1 - 1 - 1 - 1
+```
