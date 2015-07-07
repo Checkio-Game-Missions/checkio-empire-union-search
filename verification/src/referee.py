@@ -12,5 +12,5 @@ class Referee(RefereeBase):
 
     DEFAULT_FUNCTION_NAME = "find_union"
     FUNCTION_NAMES = {
-        ENV_NAME.JS_NODE
+        ENV_NAME.JS_NODE: "findUnion"
     }
