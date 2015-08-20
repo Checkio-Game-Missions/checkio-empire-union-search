@@ -20,3 +20,5 @@ if __name__ == '__main__':
         [2, 4, 2, 2, 2, 2],
         [2, 2, 4, 4, 2, 2]
     ])) == [19, 2], '19 of 2'
+
+    print("Use 'Check' to earn sweet rewards!")
