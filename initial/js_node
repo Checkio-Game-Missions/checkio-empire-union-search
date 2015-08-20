@@ -24,4 +24,5 @@ if (!global.is_checking) {
         [2, 4, 2, 2, 2, 2],
         [2, 2, 4, 4, 2, 2]
     ]), [19, 2], '19 of 2');
+    console.log("Earn cool rewards by using the 'Check' button!");
 }
